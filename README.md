@@ -1,6 +1,7 @@
 # mydemo
 
 > A Vue.js project
+利用Vue+MUI+MINTUI实现的简易商品APP 有新闻浏览 图片浏览 商品信息浏览 用户评论 购物车等功能
 
 ## Build Setup
 
